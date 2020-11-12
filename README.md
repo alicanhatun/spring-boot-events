@@ -1,4 +1,4 @@
-## **Spring Cloud Events Sample**
+## **Spring Boot Events Sample**
 
 ### **Request Sample**
 
